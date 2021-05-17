@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <FirstName>Zofia</FirstName>
+    <LastName>Urbanowska</LastName>
+    <StreetName>Plac Zamkowy</StreetName>
+    <HouseNumber>5</HouseNumber>
+    <ApartmentNumber>0</ApartmentNumber>
+    <PostalCode>60-510</PostalCode>
+    <Town>Konin</Town>
+    <PhoneNumber>667-445-254</PhoneNumber>
+    <DateOfBirth>1949-05-15T00:00:00</DateOfBirth>
+    <Age>72</Age>
+  </Person>
+</ArrayOfPerson>
